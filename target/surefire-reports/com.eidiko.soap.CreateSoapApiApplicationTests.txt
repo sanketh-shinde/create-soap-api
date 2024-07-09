@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.eidiko.soap.CreateSoapApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.415 s -- in com.eidiko.soap.CreateSoapApiApplicationTests

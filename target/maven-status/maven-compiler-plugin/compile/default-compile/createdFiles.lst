@@ -1,0 +1,10 @@
+com\eidiko\soap\country\Country.class
+com\eidiko\soap\config\WebServiceConfig.class
+com\eidiko\soap\country\package-info.class
+com\eidiko\soap\country\GetCountryRequest.class
+com\eidiko\soap\country\GetCountryResponse.class
+com\eidiko\soap\country\Currency.class
+com\eidiko\soap\repository\CountryRepository.class
+com\eidiko\soap\country\ObjectFactory.class
+com\eidiko\soap\CreateSoapApiApplication.class
+com\eidiko\soap\endpoint\CountryEndpoint.class
